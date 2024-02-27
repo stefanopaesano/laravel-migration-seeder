@@ -42,9 +42,7 @@
                         
                       
 
-                      <a href="{{ route('trains.show', ['id' => $train->id]) }}" class="btn btn-primary">
-                        Vai al film
-                      </a>
+                      
 
                       
                   </div>
